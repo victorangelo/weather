@@ -1,6 +1,6 @@
 This solution provides the eather forecast for the next 5 days from <b>OpenWeatherMap API</b>.
 
-An example of it is hosted here : 
+An example of it is hosted here : https://still-crag-76512.herokuapp.com
 
 (It took 4 hours to code it, so some visual effects are not perfect)
 
