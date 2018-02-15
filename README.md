@@ -1,11 +1,11 @@
-This solution provides the eather forecast for the next 5 days from OpenWeatherMap API.
+This solution provides the eather forecast for the next 5 days from <b>OpenWeatherMap API</b>.
 
 An example of it is hosted here : 
 
 (It took 4 hours to code it, so some visual effects are not perfect)
 
-To Run Application : make sure you have the latest nodejs version installed. Then do in the app root directory a npm install. Then npm start.
+<b>To Run Application :</b> make sure you have the latest nodejs version installed. Then do in the app root directory a <b>npm install</b>. Then <b>npm start</b>.
 
-To Build the Application : Do in the app root directory a npm build.
+<b>To Build the Application :</b> Do in the app root directory a <b>npm build</b>.
 
-To Test the Application : Do in the app root directory a npm test.
+<b>To Test the Application :</b> Do in the app root directory a <b>npm test</b>.
