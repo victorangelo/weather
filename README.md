@@ -1,4 +1,4 @@
-This solution provides the eather forecast for the next 5 days from <b>OpenWeatherMap API</b>.
+This solution provides the Weather forecast for the next 5 days from <b>OpenWeatherMap API</b>.
 
 An example of it is hosted here : https://still-crag-76512.herokuapp.com
 
